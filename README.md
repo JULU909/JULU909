@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Programming langauges :
 
 
-Python https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
+Python ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
