@@ -21,7 +21,7 @@ Programming langauges :
 
 
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />                      <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" />  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40" height="40" /> <img src="https://mpng.subpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />                      <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" />  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40" height="40" /> <img src="https://gravitydata.co/wp-content/uploads/2021/11/AzureSQLDatabase-e1637755273486.png" width="40" height="40" />
 
 
 
