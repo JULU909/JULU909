@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Reaching out to me : 
 
-https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&su={title}&body={url}
+https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
 
 
 
