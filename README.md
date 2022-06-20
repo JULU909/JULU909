@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 
-Personal intrests :
+# get to know me better
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
