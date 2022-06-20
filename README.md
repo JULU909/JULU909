@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 # Here are some of my skill sets : 
 
+Programming langauges :
 
 
+Python https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
 
 
 
