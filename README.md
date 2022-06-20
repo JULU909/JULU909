@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## Reaching out to me : 
 
-[![Image](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png) width="40" height="40" ](https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
+[![Image](https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg)](https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
 )
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />   https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
+
 
 
 
