@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Programming langauges :
 
 
-Python <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="20" height="20" />
+Python <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />
 
 
 
