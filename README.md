@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Here are some of my skill sets : 
 
-Programming langauges :
+##Programming langauges :
 
 
 
@@ -30,5 +30,9 @@ Programming langauges :
 
 
 
-# Getting to know me 
+## Getting to know me 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
+##Let's connect! : 
+
