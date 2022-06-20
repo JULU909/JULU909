@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 
 
+## Reaching out to me : 
 
+https://mail.google.com/mail/?view=cm&to={julu909@gmail.com}&su={title}&body={url}&bcc={email_address}&cc={email_address}
 
 
 
