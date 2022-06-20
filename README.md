@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Reaching out to me : 
 
-[![Gmail](https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg=250x250)](https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
+[![Gmail](https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg | width=100)](https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&
 )
 
 
