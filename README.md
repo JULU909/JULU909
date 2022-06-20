@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 
 
 
-## Reaching out to me : 
+## 📫 Reaching out to me : 
 
 <a href="https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&">
-<img alt="Qries" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg" width="40" height="40" />  Julu909@gmail.com
+<img alt="mail" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg" width="40" height="40" />  
 
 
-
+<a href="https://www.linkedin.com/in/harish-vasanth-67aa2872/">
+<img alt="linkedin" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/linkedin.jpg" width="40" height="40" />  
 
 
 ## Getting to know me 
