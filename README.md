@@ -21,7 +21,7 @@ Programming langauges :
 
 
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />                      <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" />  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40" height="40" /> <img src="https://mpng.subpng.com/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" />                      <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" />  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40" height="40" /> <img src="https://mpng.subpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" width="40" height="40" />
 
 
 
