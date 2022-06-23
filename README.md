@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 
 ## 📫 Reaching out to me : 
-&nbsp;&nbsp;
-
-<a href="https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&">
+&nbsp;&nbsp; <a href="https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&">
 <img alt="mail" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg" width="40" height="40" /> 
 &nbsp;
 
