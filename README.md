@@ -1,7 +1,7 @@
 ### Hi there 👋
 " We are back, Like the dinosaurs"
 
-The Universe is made of stories, not of atoms. Compsci is made of coders, not code. ~ Muriel Rukeyser 
+The Universe is made of stories, not of atoms.
 <!--
 **JULU909/JULU909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
