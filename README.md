@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 # Here are some of my skill sets : 
 
-## Programming langauges :
+
 
 
 <hr>
