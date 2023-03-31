@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 <hr>
 
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" /> &nbsp;  <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" /> &nbsp;  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40" height="40" /> &nbsp; <img src="https://gravitydata.co/wp-content/uploads/2021/11/AzureSQLDatabase-e1637755273486.png" width="40" height="40" />
-
 
 
 ## 📫 Reaching out to me : 
