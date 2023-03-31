@@ -59,11 +59,12 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/harish_vasanth_/">
 <img alt="Insta" <img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=1380&t=st=1680293746~exp=1680294346~hmac=b663e8b2bbf5714517b05b4cab2740a185c2a97fffe059db8f22158c48765e6d" width="40" height="40" />  
 
+</h2>
+<h2 align="center">
 
-## Getting to know me 
-  
+Let's connect! : 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&redirect=true)
 
 
-## Let's connect! : 
 
