@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 </h2>
 <h2 align="center">
 
-Let's connect! : 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&redirect=true)
 
 
 
