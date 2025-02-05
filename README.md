@@ -45,24 +45,6 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">
-📫 Reaching out to me : 
-
-<h2 align="center">
-<a href="https://mail.google.com/mail/?view=cm&to=julu909@gmail.com&"> 
-<img alt="mail" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/gmail.jpg" width="40" height="40" /> 
-
-
-<a href="https://www.linkedin.com/in/harish-vasanth-67aa2872/">
-<img alt="linkedin" <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/linkedin.jpg" width="40" height="40" />  
-
-<a href="https://www.instagram.com/harish_vasanth_/">
-<img alt="Insta" <img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=1380&t=st=1680293746~exp=1680294346~hmac=b663e8b2bbf5714517b05b4cab2740a185c2a97fffe059db8f22158c48765e6d" width="40" height="40" />  
-
-</h2>
-<h2 align="center">
-
-
 Let's connect! : 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xlnckksmklwjnr8y9m5gmacxr&redirect=true)
