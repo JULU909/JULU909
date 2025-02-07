@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Landscape Image](images/7bcb6cb5cba9c5a9cf518f8e9c6af06d.jpg)
 
 
 
